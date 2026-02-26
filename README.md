@@ -1,10 +1,6 @@
-```{=html}
 <p align="center">
-```
-`<img src="doris.png" alt="D.O.R.I.S. Logo" width="300"/>`{=html}
-```{=html}
+  <img src="doris.png" alt="D.O.R.I.S. Logo" width="900">
 </p>
-```
 # D.O.R.I.S.
 
 ## DOS Operational Runtime Invocation Service
